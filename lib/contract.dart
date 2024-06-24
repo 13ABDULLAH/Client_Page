@@ -6,9 +6,11 @@ class Contract {
   final String dueDate;
   final String description;
 
+  // adding comment
+
   Contract({
     required this.id,
-    required this.lookingFor,
+    required this.lookingFor,x
     required this.offer,
     required this.dueDate,
     required this.description,
